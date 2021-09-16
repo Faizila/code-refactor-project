@@ -9,6 +9,6 @@ Restructuring existing computer code
 
 * Added id tag where it was missing and made sure all the links are functioning correctly.
 
-*Added "atl" attribute to all img tags. It specifies an alternate text for the image, if for some reason the image cannot be displayed.
+* Added "atl" attribute to all img tags. It specifies an alternate text for the image, if for some reason the image cannot be displayed.
 
 * consolidated few CSS selectors and properties on the external stylesheet.

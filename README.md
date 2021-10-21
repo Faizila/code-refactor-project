@@ -1,8 +1,8 @@
 # code-refactor-project
 
-# Description
-
 Restructuring existing computer code
+
+# Description
 
 * Added an icon and changed the title of the Webpage.
 
